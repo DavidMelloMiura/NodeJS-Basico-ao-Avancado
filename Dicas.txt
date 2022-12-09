@@ -1,0 +1,6 @@
+const EventEmitter = require('events');
+
+Sempre que usa o require e dentro não tem . ou / ( Diretorio )
+Esta procurando dentro da pasta padrão do Node, pasta interna - É modulo nativo
+
+

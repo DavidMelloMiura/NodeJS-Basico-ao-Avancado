@@ -1,0 +1,10 @@
+# Arquivos e pastas que devem ser ignorados, Não sobe para o GithHub
+
+# Não sobe a pasta node_modules que é criada quando cria um projeto Node Js
+node_modules/
+
+# Tudo que for de extensão zip
+*.zip
+
+# Tudo que for de extensão rar
+*.rar
